@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding: 0;;
+}
+
+.body{
+    font-family: "Roboto";
+}
+
+.header{
+    width:100%;
+    max-width: 1600px;
+    margin: auto 0;
+}
+
+/*header*/
+
+.top-menu{
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 215px;
+}
+
+.logo{
+    font-family: "Raleway";
+    font-size: 26px;
+    font-weight: 700;
+    color:rgba(0, 0, 0, 1);
+}
+
+.logobl{
+    color:rgba(33, 150, 243, 1);
+}
+
+.nav-link{
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 50px;
+}
